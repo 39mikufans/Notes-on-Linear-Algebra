@@ -12,3 +12,5 @@
 或是发邮件到我的邮箱 innovation024@icloud.com
 ## 致谢
 早期版本中感谢唐雯洁小姐对笔记内容的校订，以及钱汉麟先生对内容的补充建议。
+<br>
+![pika](http://touhousupport.gitee.io/some-picture-and-gif/pika.gif)
